@@ -9,5 +9,10 @@ usaco teaching material
 3. https://darrenyao.com/usacobook/cpp.pdf
 4. https://usaco.guide/general/resources-cp?lang=cpp
 
+## Progress
+1. [2022/3/20] 
+    - set up environment: vscode + mingw g++ tool chain 
+2. start with https://www.cplusplus.com/doc/
+
 ## Example problems
 TODO
